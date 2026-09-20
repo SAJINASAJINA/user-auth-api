@@ -116,3 +116,7 @@ https://user-auth-api-faub.onrender.com
 ## Source Code
 
 https://github.com/SAJINASAJINA/user-auth-api
+
+## Postman Documentation
+
+[View Postman API Documentation](https://documenter.getpostman.com/view/40418796/2sBYB1PUP1)
